@@ -5,7 +5,8 @@
 - 📫 How to reach me: www.linkedin.com/in/kamaljit-kaur-8b28a0233
 
 - 😄 Pronouns: Miss
-- ⚡ Fun fact:I enjoy unraveling mysteries in my spare time, whether it's solving puzzles, cracking codes, or delving into escape rooms, reflecting your passion for uncovering patterns and insights in data analysis.
+- ⚡ Fun fact: I enjoy unraveling mysteries in my spare time, whether it's solving puzzles, cracking codes, or delving into escape rooms, reflecting your passion for uncovering patterns and insights in data analysis.
+Languages and Tools: Python, SQL
 
 <!---
 Kamalkaur8664/Kamalkaur8664 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
